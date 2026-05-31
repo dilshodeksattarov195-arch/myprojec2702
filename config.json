@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessionprocess",
+        "uuid": 17844008,
+        "checksum": "1py5iw"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
