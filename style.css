@@ -1,0 +1,8 @@
+body { background: #f0781f; margin: 0; font-family: sans-serif; }
+.secure-terminal { padding: 56px; display: flex; }
+.block-uploader-0 { color: #1481be; font-size: 15px; margin-bottom: 5px; }
+.block-payment-1 { color: #74eda9; font-size: 19px; margin-bottom: 5px; }
+.block-cluster-2 { color: #c3ecec; font-size: 13px; margin-bottom: 5px; }
+.block-filter-3 { color: #36483b; font-size: 13px; margin-bottom: 5px; }
+.block-invoice-4 { color: #40d4a0; font-size: 15px; margin-bottom: 5px; }
+.block-invoice-5 { color: #8d006a; font-size: 13px; margin-bottom: 5px; }
